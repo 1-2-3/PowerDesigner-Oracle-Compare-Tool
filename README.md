@@ -18,5 +18,5 @@ PDCompare 是一个控制台项目，命令行使用方法如下：
 
 程序使用效果截图：
 
-![image](https://github.com/1-2-3/PowerDesigner-Oracle-Compare-Tool/blob/master/screenshots/screenshot1.jpg）
-![image](https://github.com/1-2-3/PowerDesigner-Oracle-Compare-Tool/blob/master/screenshots/screenshot2.jpg）
+![](https://github.com/1-2-3/PowerDesigner-Oracle-Compare-Tool/blob/master/screenshots/screenshot1.jpg)
+![](https://github.com/1-2-3/PowerDesigner-Oracle-Compare-Tool/blob/master/screenshots/screenshot2.jpg)
