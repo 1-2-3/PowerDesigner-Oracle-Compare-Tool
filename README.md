@@ -13,3 +13,8 @@ PDCompare 是一个控制台项目，命令行使用方法如下：
     指定 /compareScript 可选参数将比对存储过程和视图。
 
     示例：PDCompare "d:\temp\ZenFramework.pdm" "User ID=ZEN;Password=forget;Pooling=true;Data Source=(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 172.16.4.45)(PORT = 1521)))(CONNECT_DATA =(SERVICE_NAME = onlyorcl)))" /compareScript
+
+（代码写的有点乱，有10个人以上使用我就重构代码好吗( ＊＿＊ ) 
+
+程序使用效果截图：
+
