@@ -16,7 +16,7 @@ PDCompare 是一个控制台项目，命令行使用方法如下：
 
 （代码写的有点乱，有10个人以上使用我就重构代码好吗( ＊＿＊ ) 
 
-注：为免除安装Oracle客户端的麻烦，我把连接Oracle数据库需要用到的原生客户端DLL放到了 \lib\ODP64\NeedCopyToAppBin 文件夹下，把它们复制到编译生成的 PDCompare.exe 命令行文件相同目录即可（但是因为Git不允许上传超过100M的文件，所以其中一个叫做oraociei11.dll的文件请先去百度网盘下载：![](http://pan.baidu.com/s/1c1WHmUW) 下载后也复制到PDCompare.exe 命令行文件相同目录）。
+注：为免除安装Oracle客户端的麻烦，我把连接Oracle数据库需要用到的原生客户端DLL放到了 \lib\ODP64\NeedCopyToAppBin 文件夹下，把它们复制到编译生成的 PDCompare.exe 命令行文件相同目录即可（但是因为Git不允许上传超过100M的文件，所以其中一个叫做oraociei11.dll的文件请先去百度网盘下载：[百度云盘](http://pan.baidu.com/s/1c1WHmUW) 下载后也复制到PDCompare.exe 命令行文件相同目录）。
 
 程序使用效果截图：
 
